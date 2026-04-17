@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Alisson Caxias 👋</h1>
 
-<!--
-**AlissonCaxias/alissoncaxias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Full Stack Developer &nbsp;·&nbsp; "Evoluir sempre"</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Sou um desenvolvedor Full Stack com foco em soluções práticas e eficientes. Gosto de transformar problemas reais em produtos funcionais, unindo desenvolvimento web com ferramentas de análise e automação de dados.
+
+Atualmente estou aprimorando minhas habilidades e construindo projetos que entregam valor de forma direta e objetiva.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Dados & Produtividade
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Planilhas-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 🚀 Projetos
+
+### 📌 Cronômetro de Estudo
+> Aplicação web focada em produtividade, desenvolvida para auxiliar no controle e organização do tempo de estudo.
+
+- 🔧 Tecnologias: HTML, CSS, JavaScript
+- 🌐 Em breve disponível online
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p>
+  <a href="https://github.com/AlissonCaxias">
+    <img src="https://img.shields.io/badge/GitHub-AlissonCaxias-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlissonCaxias&color=blue&style=for-the-badge" alt="Visualizações do perfil"/>
+</p>
+
+<p align="center"><i>"Evoluir sempre."</i></p>
