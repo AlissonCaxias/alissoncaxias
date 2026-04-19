@@ -43,7 +43,9 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos que entre
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[![Cronômetro de Estudo](https://img.shields.io/badge/-🌐%20Cronômetro%20de%20Estudo-6A0DAD?style=for-the-badge)](https://bit.ly/Cronometro-alisson)
+<a href="https://bit.ly/Cronometro-alisson" target="_blank">
+  <img src="https://img.shields.io/badge/-🌐%20Cronômetro%20de%20Estudo-6A0DAD?style=for-the-badge"/>
+</a>
 
 ---
 
