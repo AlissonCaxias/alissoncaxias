@@ -38,8 +38,12 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos que entre
 ### 📌 Cronômetro de Estudo
 > Aplicação web focada em produtividade, desenvolvida para auxiliar no controle e organização do tempo de estudo.
 
-- 🔧 Tecnologias: HTML, CSS, JavaScript
-- 🌐 Em breve disponível online
+![Tecnologias](https://img.shields.io/badge/-🔧%20Tecnologias:-000000?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+[![Cronômetro de Estudo](https://img.shields.io/badge/-🌐%20Cronômetro%20de%20Estudo-6A0DAD?style=for-the-badge)](https://bit.ly/Cronometro-alisson)
 
 ---
 
@@ -48,7 +52,9 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos que entre
 <p>
   <a href="https://github.com/AlissonCaxias/alissoncaxias">
     <img src="https://img.shields.io/badge/GitHub-AlissonCaxias-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a><br><a href="https://www.linkedin.com/in/alisson-caxias-72268b288"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="28" border-radius="5px"/><img src="https://img.shields.io/badge/LinkedIn-Alisson%20Caxias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a><br>
+  
+  <a href="https://www.linkedin.com/in/alisson-caxias-72268b288"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="28" border-radius="5px"/><img src="https://img.shields.io/badge/LinkedIn-Alisson%20Caxias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
