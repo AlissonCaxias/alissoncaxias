@@ -67,3 +67,6 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos que entre
 </p>
 
 <p align="center"><i>"Evoluir sempre."</i></p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissoncaxias&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
