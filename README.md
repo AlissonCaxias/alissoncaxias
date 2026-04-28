@@ -35,6 +35,18 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos que entre
 
 ## 🚀 Projetos
 
+### 🌐 Projeto de Layout Responsivo
+> Projeto para testar conhecimento adquirido
+
+![Tecnologias](https://img.shields.io/badge/-🔧%20Tecnologias:-000000?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<a href="https://github.com/AlissonCaxias/desafio-responsividade" target="_blank">
+  <img src="https://img.shields.io/badge/-🌐%20Desafio%20de%20responsividade-3e9a89?style=for-the-badge" />
+</a>
+
+
 ### 📌 Cronômetro de Estudo
 > Aplicação web focada em produtividade, desenvolvida para auxiliar no controle e organização do tempo de estudo.
 
