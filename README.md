@@ -59,7 +59,7 @@ Atualmente estou aprimorando minhas habilidades e construindo projetos que entre
   <img src="https://img.shields.io/badge/-🌐%20Cronômetro%20de%20Estudo-6A0DAD?style=for-the-badge"/>
 </a>
 <br>
-Em Breve!<img src="https://img.shields.io/badge/-🌐%20Cronômetro%20de%20Estudo%20Premium-6c3e9a?style=for-the-badge" />
+<a href="https://alissoncaxias.github.io/cronometro-premium/" target="_blank"><img src="https://img.shields.io/badge/-🌐%20Cronômetro%20de%20Estudo%20Premium-6c3e9a?style=for-the-badge" /></a>
 ---
 
 ## 📫 Vamos nos conectar?
